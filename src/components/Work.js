@@ -24,14 +24,14 @@ const Work = () => {
         }
     ]
   return (
-    < div className='container'>
+    < div className='work-section-container'>
           <div className='work-section-top'>
               <p className='primary-subheading'>
                  Work 
               </p>
           
               <h1 className='next-heading'>How it Works</h1>
-              <p className='primary-text'> It works like swiggy app or other food delievery apps and also provide many discounts to the users </p>
+              <p className='primay-text'> It works like swiggy app or other<br></br> food delievery apps and also provide many discounts to the users </p>
           </div>
           <div className='work-section-bottom'>
               
